@@ -46,3 +46,29 @@ This is important because it establishes a direct and unambiguous relationship b
 - Validate the completed geographic dataset
 - Document data sources and methodology
 - Run final Phase 1 tests
+
+#### Geographic grouping
+
+The 18 states have also been classified into derived geographic
+groups for future map navigation and visualization.
+
+The current groups are:
+
+- Northern
+- Northeast
+- Central
+- Central / Southeast
+- East / Southeast
+- Kordofan
+- Darfur
+
+These groups are a visualization and navigation layer. They are not
+an additional official administrative level and do not replace the
+18 states.
+
+The full state-to-group mapping is documented in
+`docs/geographic_grouping.md`.
+
+No `region_id` has been added to the database during Phase 1. The
+database architecture and whether geographic groups should become a
+formal schema relationship will be evaluated during Phase 2.
