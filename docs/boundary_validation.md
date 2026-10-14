@@ -199,3 +199,32 @@ The GeoJSON boundary files are not yet committed to the repository.
 The source and mapping are documented first so that the final boundary
 representation can be selected deliberately during application/schema
 design.
+
+
+## Source attribution and licensing
+
+**Dataset:** Sudan - Subnational Administrative Boundaries  
+**Publisher:** OCHA Field Information Services Section (FISS)  
+**Source:** https://data.humdata.org/dataset/cod-ab-sdn  
+**License:** Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO 3.0)  
+**License terms:** http://creativecommons.org/licenses/by/3.0/igo/legalcode
+
+### Derived boundary file
+
+`data/sudan-states.geojson` is derived from the dataset's
+`sdn_admin1.geojson` resource. It retains the 18 state polygon
+features used by this project's state model and excludes the
+Abyei PCA feature (`SD19`).
+
+The source contains 19 administrative-level-one features in total.
+The project file contains 18. State boundaries are associated with
+the existing local state IDs using OCHA administrative codes
+(`adm1_pcode`), rather than relying on exact name matching.
+
+State-name differences between the source and project data are
+documented in the boundary validation mapping above.
+
+The GeoJSON has been checked for the expected 18 features, unique
+OCHA codes, and non-empty polygon geometries. These checks establish
+structural consistency, not independent verification of the
+authoritative boundary locations.
