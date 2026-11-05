@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "state_id": 2,
+    "latitude": 15.6031,
+    "longitude": 32.5265,
+    "name_en": "Khartoum",
+    "name_ar": "الخرطوم"
+  },
+  {
+    "id": 2,
+    "state_id": 2,
+    "latitude": 15.6835,
+    "longitude": 32.4629,
+    "name_en": "Omdurman",
+    "name_ar": "ام درمان"
+  },
+  {
+    "id": 3,
+    "state_id": 2,
+    "latitude": 15.6333,
+    "longitude": 32.6333,
+    "name_en": "Khartoum North",
+    "name_ar": "بحري"
+  },
+  {
+    "id": 4,
+    "state_id": 7,
+    "latitude": 15.45,
+    "longitude": 36.4,
+    "name_en": "Kassala",
+    "name_ar": "كسلا"
+  },
+  {
+    "id": 5,
+    "state_id": 4,
+    "latitude": 19.6158,
+    "longitude": 37.2164,
+    "name_en": "Port Sudan",
+    "name_ar": "بورتسودان"
+  },
+  {
+    "id": 6,
+    "state_id": 11,
+    "latitude": 13.1833,
+    "longitude": 30.2167,
+    "name_en": "El Obeid",
+    "name_ar": "الابيض"
+  },
+  {
+    "id": 7,
+    "state_id": 8,
+    "latitude": 14.0333,
+    "longitude": 35.3833,
+    "name_en": "Gedaref",
+    "name_ar": "القضارف"
+  },
+  {
+    "id": 8,
+    "state_id": 10,
+    "latitude": 13.17,
+    "longitude": 32.66,
+    "name_en": "Kūstī",
+    "name_ar": "كوستي"
+  },
+  {
+    "id": 9,
+    "state_id": 18,
+    "latitude": 14.4,
+    "longitude": 33.51,
+    "name_en": "Wad Medani",
+    "name_ar": "ود مدني"
+  },
+  {
+    "id": 10,
+    "state_id": 6,
+    "latitude": 13.63,
+    "longitude": 25.35,
+    "name_en": "El Fasher",
+    "name_ar": "الفاشر"
+  },
+  {
+    "id": 11,
+    "state_id": 9,
+    "latitude": 10.5563,
+    "longitude": 34.2848,
+    "name_en": "Kurmuk",
+    "name_ar": "كرمك"
+  },
+  {
+    "id": 12,
+    "state_id": 15,
+    "latitude": 12.05,
+    "longitude": 24.8833,
+    "name_en": "Nyala",
+    "name_ar": "نيالا"
+  },
+  {
+    "id": 13,
+    "state_id": 3,
+    "latitude": 16.6805,
+    "longitude": 33.42,
+    "name_en": "Shendi",
+    "name_ar": "شندي"
+  },
+  {
+    "id": 14,
+    "state_id": 9,
+    "latitude": 11.7704,
+    "longitude": 34.35,
+    "name_en": "Ed Damazin",
+    "name_ar": "الدمازين"
+  },
+  {
+    "id": 15,
+    "state_id": 12,
+    "latitude": 11.01,
+    "longitude": 29.7,
+    "name_en": "Kadugli",
+    "name_ar": "كادوقلي"
+  },
+  {
+    "id": 16,
+    "state_id": 13,
+    "latitude": 13.45,
+    "longitude": 22.44,
+    "name_en": "El Geneina",
+    "name_ar": "الجنينة"
+  },
+  {
+    "id": 17,
+    "state_id": 18,
+    "latitude": 14.2504,
+    "longitude": 32.98,
+    "name_en": "Al Manāqil",
+    "name_ar": "المناقل"
+  },
+  {
+    "id": 18,
+    "state_id": 3,
+    "latitude": 17.7167,
+    "longitude": 33.9833,
+    "name_en": "Atbara",
+    "name_ar": "عطبرة"
+  },
+  {
+    "id": 19,
+    "state_id": 1,
+    "latitude": 13.55,
+    "longitude": 33.6,
+    "name_en": "Sennar",
+    "name_ar": "سنار"
+  },
+  {
+    "id": 20,
+    "state_id": 17,
+    "latitude": 12.6904,
+    "longitude": 28.42,
+    "name_en": "En Nahud",
+    "name_ar": "النهود"
+  },
+  {
+    "id": 21,
+    "state_id": 3,
+    "latitude": 17.59,
+    "longitude": 33.96,
+    "name_en": "Ed Damer",
+    "name_ar": "الدامر"
+  },
+  {
+    "id": 22,
+    "state_id": 10,
+    "latitude": 13.9904,
+    "longitude": 32.3,
+    "name_en": "Al Dewaym",
+    "name_ar": "الدويم"
+  },
+  {
+    "id": 23,
+    "state_id": 4,
+    "latitude": 18.4333,
+    "longitude": 37.7333,
+    "name_en": "Tokār",
+    "name_ar": "توكر"
+  },
+  {
+    "id": 24,
+    "state_id": 11,
+    "latitude": 12.9058,
+    "longitude": 31.2156,
+    "name_en": "Umm Ruwaba",
+    "name_ar": "ام روابه"
+  },
+  {
+    "id": 25,
+    "state_id": 3,
+    "latitude": 19.537,
+    "longitude": 33.326,
+    "name_en": "Abū Ḩamad",
+    "name_ar": "ابو حمد"
+  },
+  {
+    "id": 26,
+    "state_id": 3,
+    "latitude": 18.017,
+    "longitude": 33.9833,
+    "name_en": "Berber",
+    "name_ar": "بربر"
+  },
+  {
+    "id": 27,
+    "state_id": 4,
+    "latitude": 19.1,
+    "longitude": 37.3333,
+    "name_en": "Sawākin",
+    "name_ar": "سواكن"
+  },
+  {
+    "id": 28,
+    "state_id": 5,
+    "latitude": 19.1666,
+    "longitude": 30.4833,
+    "name_en": "Dongola",
+    "name_ar": "دنقلا"
+  },
+  {
+    "id": 29,
+    "state_id": 10,
+    "latitude": 13.188,
+    "longitude": 32.7437,
+    "name_en": "Rabak",
+    "name_ar": "ربك"
+  },
+  {
+    "id": 30,
+    "state_id": 1,
+    "latitude": 13.1483,
+    "longitude": 33.9311,
+    "name_en": "Singa",
+    "name_ar": "سنجة"
+  },
+  {
+    "id": 31,
+    "state_id": 14,
+    "latitude": 11.4672,
+    "longitude": 26.1317,
+    "name_en": "Ed Daein",
+    "name_ar": "الضعين"
+  },
+  {
+    "id": 32,
+    "state_id": 16,
+    "latitude": 12.9092,
+    "longitude": 23.4706,
+    "name_en": "Zalingei",
+    "name_ar": "زالجني"
+  },
+  {
+    "id": 33,
+    "state_id": 17,
+    "latitude": 11.712,
+    "longitude": 28.3462,
+    "name_en": "El Fula",
+    "name_ar": "الفولة"
+  }
+]
